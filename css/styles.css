@@ -65,4 +65,26 @@ body {
   z-index: 1;
 }
 
+#loginModal .modal-content {
+  background-color: #512DA8;
+}
+#loginModal .modal-body {
+  background-color: #D1C4E9;
+}
+
+#reserveTable .modal-content {
+  background-color: #512DA8;
+}
+#reserveTable .modal-body {
+  background-color: #D1C4E9;
+}
+
+#close1 {
+  color: #D1C4E9;
+}
+
+#close2 {
+  color: #D1C4E9;
+}
+
 /*# sourceMappingURL=styles.css.map */
